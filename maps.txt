@@ -1,1 +1,1 @@
-link=dust2x2winter.unity3dAndroid|name=dust2x2winter
+link=dust2x2winter.unity3dAndroid
