@@ -3,4 +3,4 @@ link=cache.unity3dAndroid
 link=dust_2_new.unity3dAndroid	
 link=inferno.unity3dAndroid	
 link=mirage.unity3dAndroid
-link=xc_dev.unity3dAndroid
+link=xc-dev.unity3dAndroid
