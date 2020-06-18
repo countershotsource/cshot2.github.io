@@ -1,28 +1,28 @@
 {
     "version": "6.11.6|6.11.5|69555",
-	"ananas": "true",
-	"zass": "true",
-	"sensivityX": "true",
+	"SnowMW": "false",
+	"WinterModels": "false",
+	"WinterStartSound": "false",
 	"servers": [
        {
-	      "appID": "haahhahahha",
-	      "name": "Server #1",
-	      "host": "com.gnom4522"
+	      "name": "Сервер #1 (Europe)",
+	      "host": "App.exitgamescloud.com",
+		  "appID": "b8500849-abed-4297-99fe-20aa524f29e6"
 	   },
        {
-	      "appID": "ha",
-	      "name": "Server #2",
-	      "host": "com.gnom78"
+	      "name": "Сервер #2 (Europe)",
+	      "host": "App.exitgamescloud.com",
+		  "appID": "646fa346-c53f-47b0-89fc-2c7360c37e11"
 	   },
 	   {
-	      "appID": "sg",
-	      "name": "Server #3",
-	      "host": "com.gnom4"
+	      "name": "Сервер #3 (Europe)",
+	      "host": "App.exitgamescloud.com",
+		  "appID": "f9a55b08-ef5f-474b-8c53-3f921ae06c6f"
 	   },
 	   {
-	      "appID": "ban",
-	      "name": "Server #4",
-	      "host": "com.gnom555"
+	      "name": "Сервер #4 (Asia)",
+	      "host": "app-asia.exitgamescloud.com",
+		  "appID": "f67ce507-e1ae-41f1-8aa3-f72fa23708ef"
 	   }
     ]
 }
