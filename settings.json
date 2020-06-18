@@ -2,5 +2,27 @@
     "version": "6.11.6|6.11.5|69555",
 	"ananas": "true",
 	"zass": "true",
-	"sensivityX": "true"
+	"sensivityX": "true",
+	"servers": [
+       {
+	      "appID": "haahhahahha",
+	      "name": "Server #1",
+	      "host": "com.gnom4522"
+	   },
+       {
+	      "appID": "ha",
+	      "name": "Server #2",
+	      "host": "com.gnom78"
+	   },
+	   {
+	      "appID": "sg",
+	      "name": "Server #3",
+	      "host": "com.gnom4"
+	   },
+	   {
+	      "appID": "ban",
+	      "name": "Server #4",
+	      "host": "com.gnom555"
+	   }
+    ]
 }
