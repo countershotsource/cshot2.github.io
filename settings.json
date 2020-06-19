@@ -24,5 +24,27 @@
 	      "host": "app-asia.exitgamescloud.com",
 	      "appID": "f67ce507-e1ae-41f1-8aa3-f72fa23708ef"
 	   }
+    ],
+    "bannedPlayers": [
+           {
+	      "playerName": "не обязательное поле, но чтоб не забыть ник можно писать сюда",
+	      "playerId": "тут id",
+	      "banReason": "Патаму шта ты читер ибаный"
+	   },
+           {
+	      "playerName": "moloko",
+	      "playerId": "9193F808EE35DA6B9E7D6D05EEC599AD",
+	      "banReason": "спам в голосовой чат"
+	   },
+	   {
+	      "playerName": "dferwy263",
+	      "playerId": "D44766A4F44F27D059508F6CA2A52BC6",
+	      "banReason": "спам в голосовой чат"
+	   },
+	   {
+	      "playerName": "user5",
+	      "playerId": "15F9A2747126F13417B1F29E812E8335",
+	      "banReason": "сх"
+	   }
     ]
 }
