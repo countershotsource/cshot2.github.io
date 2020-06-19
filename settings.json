@@ -45,6 +45,11 @@
 	      "playerName": "user5",
 	      "playerId": "15F9A2747126F13417B1F29E812E8335",
 	      "banReason": "сх"
+	   },
+	   {
+	      "playerName": "Редактор",
+	      "playerId": "EDITOR",
+	      "banReason": "ты чо ахуел с редактора играть?"
 	   }
     ]
 }
