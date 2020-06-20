@@ -1,3 +1,0 @@
-SnowMW = false 
-WinterModels = false 
-WinterStartSound = false 
