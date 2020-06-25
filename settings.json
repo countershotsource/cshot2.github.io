@@ -1,5 +1,5 @@
 {
-    "version": "6.11.6.1|69555",
+    "version": "6.11.6.2|6.11.6.1|69555",
     "SnowMW": "false",
     "WinterModels": "false",
     "WinterStartSound": "false",
@@ -23,11 +23,6 @@
 	      "name": "Сервер #4 (Asia)",
 	      "host": "app-asia.exitgamescloud.com",
 	      "appID": "f67ce507-e1ae-41f1-8aa3-f72fa23708ef"
-	   },
-	   {
-	      "name": "взлом жопы",
-	      "host": "null",
-	      "appID": "null"
 	   }
     ],
     "bannedPlayers": [
