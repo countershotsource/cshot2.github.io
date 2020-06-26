@@ -51,5 +51,11 @@
 	      "playerId": "A4EE3DAFCABE58816E31B81CC6F02202",
 	      "banReason": "оскорбление администрации"
 	   }
+    ],
+    "gameMaps": [
+           {
+	      "name": "awp_lego_2.unity3dAndroid",
+	      "link": "https://drive.google.com/file/d/1YdprnE9WmXv6HvyIe5-IKgsdaD6yckV2/view?usp=sharing"
+	   }
     ]
 }
