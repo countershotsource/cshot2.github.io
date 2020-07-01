@@ -55,6 +55,16 @@
 	      "playerName": "russian_butcher",
 	      "playerId": "A6B9B4C9B70556528756531E892530E5",
 	      "banReason": "спам"
+	   },
+	   {
+	      "playerName": "Egor Shiskin",
+	      "playerId": "1FE330D837550A269DB1984DAD868B4A",
+	      "banReason": "Я видел что вы видите через стены, не надо так."
+	   },
+	   {
+	      "playerName": "profi(nn)",
+	      "playerId": "15F9A2747126F13417B1F29E812E8335",
+	      "banReason": "Здравствуйте, мы заметили что вы превышаете максимально допустимую скорость движения. Ваш аккаунт заблокирован."
 	   }
     ],
     "gameMaps": [
