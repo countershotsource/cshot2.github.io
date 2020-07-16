@@ -1,9 +1,8 @@
 ===========================================================
-• Добавленыновые карты: ak-colt, awp_lego_quad, icemap, scout_lego, snowforsts, dust2_2x2, office
-• Обновлены карты xcdev и cheatau
-===========================================================
 <color=lime>[ОБНОВЛЕНИЕ V6.11.6]</color>
 <color=#FF8C00>What's new?</color>
+• Добавленыновые карты: ak-colt, awp_lego_quad, icemap, scout_lego, snowforsts, dust2_2x2, office
+• Обновлены карты xcdev и cheatau
 [6.11.6.1] 
 • Исправление багов
 [6.11.6]
