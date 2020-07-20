@@ -1,14 +1,8 @@
-link=ak-colt.unity3dAndroid
-link=awp_lego_2.unity3dAndroid	
-link=awp_lego_quad.unity3dAndroid
 link=cache.unity3dAndroid	
 link=dust_2_new.unity3dAndroid
 link=dust2_2x2.unity3dAndroid	
-link=fy_cheatau.unity3dAndroid
 link=inferno.unity3dAndroid
-link=icemap.unity3dAndroid
 link=cs_office.unity3dAndroid	
 link=mirage.unity3dAndroid
-link=scout_lego.unity3dAndroid
 link=snowforsts.unity3dAndroid
 link=xcdev.unity3dAndroid
