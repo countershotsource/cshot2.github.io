@@ -1,5 +1,5 @@
 ===========================================================
-Карты ak-colt, fy_cheatau, icemap, awp_lego_2, awp_lego_quad, scout_lego временно недоступны по техническим обстоятельствам
+<color=yellow>Карты ak-colt, fy_cheatau, icemap, awp_lego_2, awp_lego_quad, scout_lego временно недоступны по техническим обстоятельствам</color>
 ===========================================================
 <color=lime>[ОБНОВЛЕНИЕ V6.12]</color>
 <color=#FF8C00>What's new?</color>
