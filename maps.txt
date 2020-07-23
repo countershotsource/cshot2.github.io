@@ -8,5 +8,6 @@ link=icemap.unity3dAndroid
 link=inferno.unity3dAndroid
 link=cs_office.unity3dAndroid	
 link=mirage.unity3dAndroid
+link=scout_lego.unity3dAndroid
 link=snowforsts.unity3dAndroid
 link=xcdev.unity3dAndroid
