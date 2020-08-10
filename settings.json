@@ -1,8 +1,7 @@
 {
     "version": "6.12.0|69555",
-    "SnowMW": "false",
+    "isWinter": "false",
     "WinterModels": "false",
-    "WinterStartSound": "false",
     "servers": [
            {
 	      "name": "Сервер #1 (Europe)",
