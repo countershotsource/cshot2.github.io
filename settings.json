@@ -245,10 +245,25 @@
 	      "playerId": "00329BC1BC46DE39A8554AB9781CCAC3",
 	      "banReason": "2.4 (wazzard, привет)"
 	   },
-	    {
+	   {
 	      "playerName": "nikitaprogg",
 	      "playerId": "C666E3FB0256EE7BF93FF6709518254E",
 	      "banReason": "Токсичное поведение в чате игры + обещание найти некий 'скрипт' и подрубить читы"
+	   },
+	   {
+	      "playerName": "111xoxlov",
+	      "playerId": "81D33C2C7D02ED6783AAEAE770A7419C",
+	      "banReason": "2.4"
+	   },
+	   {
+	      "playerName": "morty",
+	      "playerId": "8D13B70149C454A26C5BED9B9BA83005",
+	      "banReason": "2.4"
+	   },
+	   {
+	      "playerName": "_end",
+	      "playerId": "C9E61B198B09AF10D2751C6253D4C0AB",
+	      "banReason": "2.4"
 	   }
     ],
     "gameMaps": [
