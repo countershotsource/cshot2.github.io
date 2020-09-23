@@ -289,19 +289,19 @@
     "gameMaps": [
        {
 	      "name": "awp_lego_2.unity3dAndroid",
-	      "link": "https://notabug.org/countershotsource/cshot.notabug.io/raw/master/maps/awp_lego_2.unity3dAndroid"
+	      "link": "https://github.com/countershotsource/cshot2.github.io/raw/master/maps/awp_lego_2.unity3dAndroid"
 	   },
        {
 	      "name": "de_cache.unity3dAndroid",
-	      "link": "https://notabug.org/countershotsource/cshot.notabug.io/raw/master/maps/de_cache.unity3dAndroid"
+	      "link": "https://github.com/countershotsource/cshot2.github.io/raw/master/maps/de_cache.unity3dAndroid"
 	   },
        {
 	      "name": "de_dust_2.unity3dAndroid",
-	      "link": "https://notabug.org/countershotsource/cshot.notabug.io/raw/master/maps/de_dust_2.unity3dAndroid"
+	      "link": "https://github.com/countershotsource/cshot2.github.io/raw/master/maps/de_dust_2.unity3dAndroid"
 	   },
        {
 	      "name": "de_inferno.unity3dAndroid",
-	      "link": "https://notabug.org/countershotsource/cshot.notabug.io/raw/master/maps/de_inferno.unity3dAndroid"
+	      "link": "https://github.com/countershotsource/cshot2.github.io/raw/master/maps/de_inferno.unity3dAndroid"
 	   }
     ]
 }
