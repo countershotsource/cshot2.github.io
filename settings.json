@@ -1,27 +1,27 @@
 {
-    "version": "6.12.0|69555",
+    "version": "6.13.2|69555",
     "isWinter": "false",
     "WinterModels": "false",
     "servers": [
            {
 	      "name": "Сервер #1 (Europe)",
 	      "host": "App.exitgamescloud.com",
-	      "appID": "b8500849-abed-4297-99fe-20aa524f29e6"
+	      "appID": ""
 	   },
            {
 	      "name": "Сервер #2 (Europe)",
 	      "host": "App.exitgamescloud.com",
-	      "appID": "646fa346-c53f-47b0-89fc-2c7360c37e11"
+	      "appID": ""
 	   },
 	   {
 	      "name": "Сервер #3 (Europe)",
 	      "host": "App.exitgamescloud.com",
-	      "appID": "f9a55b08-ef5f-474b-8c53-3f921ae06c6f"
+	      "appID": ""
 	   },
 	   {
 	      "name": "Сервер #4 (Asia)",
 	      "host": "app-asia.exitgamescloud.com",
-	      "appID": "f67ce507-e1ae-41f1-8aa3-f72fa23708ef"
+	      "appID": ""
 	   }
     ],
     "bannedPlayers": [
@@ -29,279 +29,12 @@
 	      "playerName": "не обязательное поле, но чтоб не забыть ник можно писать сюда",
 	      "playerId": "тут id",
 	      "banReason": "Патаму шта ты читер ибаный"
-	   },
-	   {
-	      "playerName": "user5",
-	      "playerId": "15F9A2747126F13417B1F29E812E8335",
-	      "banReason": "SpeedHack"
-	   },
-	   {
-	      "playerName": "th3w1se",
-	      "playerId": "A66D831E7F06B44FBC652FB265C8A5A3",
-	      "banReason": "[SpeedHack] за разбан плоти налог (пососи у Куаныша)"
-	   },
-	   {
-	      "playerName": "Ilya Chebatoryov",
-	      "playerId": "F320C9D987627A37D2C60D3A7C93C4C8",
-	      "banReason": "А ты шо думал что бан распространяется только на группу?)"
-	   },
-	   {
-	      "playerName": "s1ngle",
-	      "playerId": "A4EE3DAFCABE58816E31B81CC6F02202",
-	      "banReason": "оскорбление администрации"
-	   },
-	   {
-	      "playerName": "russian_butcher",
-	      "playerId": "A6B9B4C9B70556528756531E892530E5",
-	      "banReason": "спам"
-	   },
-	   {
-	      "playerName": "Egor Shiskin",
-	      "playerId": "1FE330D837550A269DB1984DAD868B4A",
-	      "banReason": "Я видел что вы видите через стены, не надо так."
-	   },
-	   {
-	      "playerName": "profi(nn)",
-	      "playerId": "15F9A2747126F13417B1F29E812E8335",
-	      "banReason": "Здравствуйте, мы заметили что вы превышаете максимально допустимую скорость движения. Ваш аккаунт заблокирован."
-	   },
-	   {
-	      "playerName": "th3w1se",
-	      "playerId": "3D3B51494C2BD6C106208625DD862ACB",
-	      "banReason": "[SpeedHack] за разбан плоти налог (пососи у Куаныша)"
-	   },
-	   {
-	      "playerName": "anime7kun",
-	      "playerId": "CF9F09A9A1D5D74489DF4610422C55DA",
-	      "banReason": "FlyHack"
-	   },
-	   {
-	      "playerName": "the_qrex",
-	      "playerId": "7599E05078431A774F897E4E6C572D15",
-	      "banReason": "спам"
-	   },
-	   {
-	      "playerName": "zoom",
-	      "playerId": "1DF699E5EDA03A06B3E538E58842CAFB",
-	      "banReason": "FlyHack"
-	   },
-	   {
-	      "playerName": "cursesange",
-	      "playerId": "1799723EAF054320AFAD51A83F6AE058",
-	      "banReason": "Hack"
-	   },
-	   {
-	      "playerName": "wazzard",
-	      "playerId": "03503C2985C424CA385B07FA0C635C91",
-	      "banReason": "Hack"
-	   },
-	   {
-	      "playerName": "___sm0uzzzze",
-	      "playerId": "298F0EA577F0596AA32EDB33846DE03B",
-	      "banReason": "Hack"
-	   },
-	   {
-	      "playerName": "d1sahaha",
-	      "playerId": "C9DFCCA9DEDE9D949D5F025AE74CD561",
-	      "banReason": "Hack"
-	   },
-	   {
-	      "playerName": "plusha7god",
-	      "playerId": "305179516EC505F8A1597DD8BD8CE9D4",
-	      "banReason": "Hack"
-	   },
-	   {
-	      "playerName": "bhop",
-	      "playerId": "5D6A42AF1E9402336CA5607D2F469FA1",
-	      "banReason": "Hack"
-	   },
-	   {
-	      "playerName": "читер",
-	      "playerId": "A66D831E7F06B44FBC652FB265C8A5A3",
-	      "banReason": "Hack"
-	   },
-	   {
-	      "playerName": "p4rroviziicc",
-	      "playerId": "B400FD1C6971891181B287BB8CD0A43E",
-	      "banReason": "Поиск читов"
-	   },
-	   {
-	      "playerName": "11xoxolov",
-	      "playerId": "DFF4A117EBE1FACF9686DE93E76A3458",
-	      "banReason": "Hack"
-	   },
-	   {
-	      "playerName": "4ainic",
-	      "playerId": "B400FD1C6971891181B287BB8CD0A43E",
-	      "banReason": "Поиск читов"
-	   },
-	   {
-	      "playerName": "lilpeep",
-	      "playerId": "115A8686C54757CC6D159E53DF587CD2",
-	      "banReason": "Hack"
-	   },
-	   {
-	      "playerName": "antidepresant",
-	      "playerId": "4D0F984F42B4E1E73C88756A1CFEBEAE",
-	      "banReason": "Hack"
-	   },
-	   {
-	      "playerName": "patolino",
-	      "playerId": "13212DF70FA050EB360B61750EA001A5",
-	      "banReason": "Hack"
-	   },
-	   {
-	      "playerName": "fower",
-	      "playerId": "C7A56C327D8447E1ADBC55169BD14D92",
-	      "banReason": "Hack"
-	   },
-	   {
-	      "playerName": "lanbers",
-	      "playerId": "3E7899CFE3B68E95BE0D412907F58A7A",
-	      "banReason": "Hack"
-	   },
-	   {
-	      "playerName": "insidehall",
-	      "playerId": "7D72E99E13FD72676CD3C4C47FC93963",
-	      "banReason": "калл"
-	   },
-	   {
-	      "playerName": "111xoxlov",
-	      "playerId": "2DD5CDCBA0C1066CEF7E6189F5F6A05A",
-	      "banReason": "ой"
-	   },
-	   {
-	      "playerName": "wazzard",
-	      "playerId": "06C27A18E340E30791C8C0A8F55F9D34",
-	      "banReason": "ой"
-	   },
-	   {
-	      "playerName": "user90",
-	      "playerId": "D67A1E5FD3C799F55C3204DCA53C5146",
-	      "banReason": "Оскорбление администрации"
-	   },
-	   {
-	      "playerName": "111km_go_aga",
-	      "playerId": "C4DAA1B7B4F3A1AADE982358DB440A31",
-	      "banReason": "Привет, я тебя нашел:)"
-	   },
-	   {
-	      "playerName": "dart_moll",
-	      "playerId": "185223B79A630B0D5BFDDEFDAB49482A",
-	      "banReason": "2.4"
-	   },
-	   {
-	      "playerName": "xyuser",
-	      "playerId": "FFA8A66250167E6810A07704D0EA4477",
-	      "banReason": "2.4"
-	   },
-	   {
-	      "playerName": "___kizzzzzzzaru",
-	      "playerId": "00333A9D3DCAD26670F2E8268C170638",
-	      "banReason": "2.4"
-	   },
-	   {
-	      "playerName": "disa",
-	      "playerId": "CA98DF02623529D8FF4625F63F81B26B",
-	      "banReason": "2.4"
-	   },
-	   {
-	      "playerName": "viprozbay",
-	      "playerId": "F92DCF3F44AAC2C05B4CBD4763171DDB",
-	      "banReason": "2.1"
-	   },
-	   {
-	      "playerName": "akemi",
-	      "playerId": "C3FC9E1FEC1EB090A84F55FB4618616C",
-	      "banReason": "2.1"
-	   },
-	   {
-	      "playerName": "alex",
-	      "playerId": "EDCBE3E4F0672D6020D6E992562F926B",
-	      "banReason": "2.7"
-	   },
-	   {
-	      "playerName": "insidehall",
-	      "playerId": "7388E9692F4FD8D7F5DDE0401180F5BC",
-	      "banReason": "2.7"
-	   },
-	   {
-	      "playerName": "killer",
-	      "playerId": "784EF9384EF5421256BBBAD9C3BF862B",
-	      "banReason": "2.7"
-	   },
-	   {
-	      "playerName": "motorola",
-	      "playerId": "9B57DCCECB764E94FCC0043CC6629236",
-	      "banReason": "2.4"
-	   },
-	   {
-	      "playerName": "vredna_9l",
-	      "playerId": "3B3FADBDF7CE8BAFBD2034C20D84977A",
-	      "banReason": "2.4 (так ты Милан или Дима?)"
-	   },
-	   {
-	      "playerName": "wazzard",
-	      "playerId": "00329BC1BC46DE39A8554AB9781CCAC3",
-	      "banReason": "2.4 (wazzard, привет)"
-	   },
-	   {
-	      "playerName": "nikitaprogg",
-	      "playerId": "C666E3FB0256EE7BF93FF6709518254E",
-	      "banReason": "Токсичное поведение в чате игры + обещание найти некий 'скрипт' и подрубить читы"
-	   },
-	   {
-	      "playerName": "111xoxlov",
-	      "playerId": "81D33C2C7D02ED6783AAEAE770A7419C",
-	      "banReason": "2.4"
-	   },
-	   {
-	      "playerName": "morty",
-	      "playerId": "8D13B70149C454A26C5BED9B9BA83005",
-	      "banReason": "2.4"
-	   },
-	   {
-	      "playerName": "_end",
-	      "playerId": "C9E61B198B09AF10D2751C6253D4C0AB",
-	      "banReason": "2.4"
-	   },
-	   {
-	      "playerName": "wazzard",
-	      "playerId": "1A0609D02DDE9664D46389A8074BE07B",
-	      "banReason": "2.4"
-	   },
-	   {
-	      "playerName": "wazzard",
-	      "playerId": "FC6165441909DF45D0389C4B8E42058C",
-	      "banReason": "2.4"
-	   },
-	   {
-	      "playerName": "user21",
-	      "playerId": "CDBF07C31388652068373E0115E30FEF",
-	      "banReason": "2.4"
-	   },
-	   {
-	      "playerName": "saminyyy",
-	      "playerId": "0FA00C89049865D2458671145070A5ED",
-	      "banReason": "2.2"
 	   }
     ],
     "gameMaps": [
-       {
+           {
 	      "name": "awp_lego_2.unity3dAndroid",
 	      "link": "https://github.com/countershotsource/cshot2.github.io/raw/master/maps/awp_lego_2.unity3dAndroid"
-	   },
-       {
-	      "name": "de_cache.unity3dAndroid",
-	      "link": "https://github.com/countershotsource/cshot2.github.io/raw/master/maps/de_cache.unity3dAndroid"
-	   },
-       {
-	      "name": "de_dust_2.unity3dAndroid",
-	      "link": "https://github.com/countershotsource/cshot2.github.io/raw/master/maps/de_dust_2.unity3dAndroid"
-	   },
-       {
-	      "name": "de_inferno.unity3dAndroid",
-	      "link": "https://github.com/countershotsource/cshot2.github.io/raw/master/maps/de_inferno.unity3dAndroid"
 	   }
     ]
 }
